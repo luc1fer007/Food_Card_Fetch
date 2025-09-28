@@ -64,7 +64,9 @@ button {
   /* gap: 10px; */
   max-width: fit-content;
   /* background: #a8d969; */
-  background: #faeab1;
+  /* background: #faeab1; */
+  /* background: #ddf6d2; */
+  background: #ddf6d2;
 }
 .image {
   width: auto;
@@ -76,4 +78,5 @@ button {
   text-align: center;
   padding: 15px;
   max-width: 80%;
+  font-weight: bold;
 }
